@@ -3,7 +3,7 @@ window.onload = function () {
     const eye = document.querySelector('.eye')
     const pswInput = document.getElementById('psw')
 
-    // 动画，密码可见性
+    // 动画，密码可见性...
 
     eye.addEventListener('click', function(e){
         e.preventDefault()
